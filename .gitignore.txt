@@ -1,0 +1,18 @@
+# Arduino build files
+*.elf
+*.hex
+*.bin
+*.eep
+*.eep.backup
+*.map
+*.log
+*.tmp
+
+# Arduino IDE cache and temp folders
+*.ino~
+*.tmp
+*.bak
+
+# Other OS files
+Thumbs.db
+.DS_Store
